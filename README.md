@@ -1,7 +1,6 @@
-# IOT_Assignment_2020
-My first year IOT project.
+# IOT_Assignment_2020 - Remote Weather Station
+My first year IOT project. A remote mobile weather station that can be placed in an area to gather weather data for that area, such as temperature, wind speed, wind direction, humidity, rainfall, ect.
 
-## Progress Report: 30 March 2020
-6th March: Initial setup and testing of weather station equiptment. Software was already installed on the pi from a similar project, but I followed the updated guide and reinstalled most of the software. Equiptment worked as expected, readings were showing up on the Pi when the equiptment was plugged in and manipulated, but the SQL software and MariaDB that was previously installed on the Pi was interfering with my fresh install, causing an error later on that I could not work around. It's clear that a clean install of raspbian or debian would be needed.
-
-29th March: Got a memory card reader and preformed a fresh reinstall of raspbian, without the software pre packaged (There was an option to get a version with all the necessary software pre installed and organised, but I decided against that to get a bit more experience working with linux and packages). I started to install and test the software and hardware as I went along, following the instructions outlined on the Rasberry Pi weather station guide: https://projects.raspberrypi.org/en/projects/build-your-own-weather-station and other similar guides for clarity when minor issues were encountered. The equiptment is working expectedly and I managed to bypass the issue with the MariaDB and SQL from the previous attempt. Some more software work needs to be done but so far most of the software and hardware is working.
+### Materials Needed:
+- Raspberry Pi
+- Weather Station Kit
