@@ -4,3 +4,8 @@ My first year IOT project. A remote mobile weather station that can be placed in
 ### Materials Needed:
 - Raspberry Pi
 - Weather Station Kit
+- Brain Power!
+
+### Folder Structure:
+- Documents: Contains the Issues and Mitigations and the Progress report.
+- Gallery: Contains some Images that were taken during the project.
